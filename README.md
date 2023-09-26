@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Gabriel
 
 - I'm interested in technology💻, history📖, and videography📷
 - I'm learning JavaScript, Python, HTML, and CSS
