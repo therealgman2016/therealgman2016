@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm interested in technology, history, and videography
+- I'm learning JavaScript, Python, HTML, and CSS
+- I'm looking to collaberate on a back-end project
+- Want to connect?
+    - linkedIn: [here](https://www.linkedin.com/in/gabriel-j-moore-dev/)
+    - X: [here](https://twitter.com/therealgman2016)
 <!--
 **therealgman2016/therealgman2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
