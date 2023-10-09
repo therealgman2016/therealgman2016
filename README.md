@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 - Hey all! I'm [Gabriel](https://github.com/therealgman2016)
 - I'm interested in technology💻, history📖, and videography📷
