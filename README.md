@@ -2,7 +2,7 @@
 
 - Hey all! I'm [Gabriel](https://github.com/therealgman2016)
 - I'm interested in technology💻, history📖, and videography📷
-- I'm learning JavaScript, Python, HTML, and CSS, Node-Red
+- I'm learning JavaScript, Python, HTML, and CSS, Node-Red, React, and open to anything else!
 - I'm looking to collaberate on a back-end project🔄
 - Want to connect?
     - linkedIn🔗: [here](https://www.linkedin.com/in/gabriel-j-moore-dev/)
